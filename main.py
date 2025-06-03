@@ -30,6 +30,8 @@ def main():
 
         pygame.display.flip()
 
+        player.update(dt)
+
         dt = clock.tick(60) / 1000
 
         for event in pygame.event.get():
