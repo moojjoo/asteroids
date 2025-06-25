@@ -8,9 +8,12 @@ A classic **Asteroids** arcade game built with **Python** and **Pygame**, featur
 - **Collision Detection**: Spaceship and asteroids interact dynamically.
 
 ## 🎮 How to Play
-1. **Arrow Keys**: Rotate and move the spaceship.
-2. **Spacebar**: Fire bullets to break asteroids.
-3. **Survive**: Avoid collisions!
+1. **Keyboard 'a'** right rotation
+2. **Keyboard 'd'** left rotation
+3. **Keybard 'w'** for thrust forward
+4. **Keybard 's'** for thrust backward 
+5. **Spacebar**: Fire bullets to break asteroids.
+6. **Survive**: Avoid collisions!
 
 ## 🚀 Installation
 ### Prerequisites
