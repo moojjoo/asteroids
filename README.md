@@ -20,15 +20,26 @@ A classic **Asteroids** arcade game built with **Python** and **Pygame**, featur
 Ensure you have **Python 3.x** installed.
 
 1️⃣ Install `pygame`:
-```bash
-pip install pygame
+bash
+```pip install pygame```
+
+To run your Asteroids game, follow these steps:
+
+1. Install dependencies (if you haven't already):
+```pip install pygame```
+2. Navigate to your project directory in the terminal:
+```cd /home/moojjoo/workspace/github.com/moojjoo/astoriods```
+3. Run the main Python file:
+```python main.py```
+
+If everything is set up correctly, the game window should open and you’ll see your Asteroids game running!
 
 #### 🤝 Contributing
 
 ### Clone the repo
 
 ```bash
-git clone [https://github.com/xyz/zipzod@latest](https://github.com/moojjoo/asteroids/)
+git clone https://github.com/moojjoo/asteroids/
 cd asteroids
 ```
 
@@ -42,12 +53,6 @@ No need to build Python is an interpreted language, but be sure to have Python 3
 
 ```bash
 python3 main.py
-```
-
-### Run the tests
-
-```bash
-go test ./...
 ```
 
 ### Submit a pull request
