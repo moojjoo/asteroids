@@ -22,3 +22,34 @@ Ensure you have **Python 3.x** installed.
 1️⃣ Install `pygame`:
 ```bash
 pip install pygame
+
+#### 🤝 Contributing
+
+### Clone the repo
+
+```bash
+git clone [https://github.com/xyz/zipzod@latest](https://github.com/moojjoo/asteroids/)
+cd asteroids
+```
+
+### Build the project
+
+```bash
+No need to build Python is an interpreted language, but be sure to have Python 3.x and pygame installed
+```
+
+### Run the project
+
+```bash
+python3 main.py
+```
+
+### Run the tests
+
+```bash
+go test ./...
+```
+
+### Submit a pull request
+
+If you'd like to contribute, please fork the repository and open a pull request to the `main` branch.
